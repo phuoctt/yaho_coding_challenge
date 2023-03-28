@@ -4,12 +4,6 @@ Yaho Coding Challenge.
 
 ## Getting Started
 
-I use bloc to manage state
-
-This design pattern helps to separate presentation from business logic. Following the BLoC pattern facilitates testability and reusability. This package abstracts reactive aspects of the pattern allowing developers to focus on writing the business logic.
-
-
-
 Apk Android: https://install.appcenter.ms/users/thephuoc2101-gmail.com/apps/yaho/distribution_groups/test
 
 
